@@ -1,6 +1,6 @@
 # Graphing Calculator
 
-This project was made as part of the freeCodeCamp "College Algebra with Python" course. The user enters the information when prompted to complete their menu selection. The functions that can be performed on this calculator include: 
+This project was made as part of the freeCodeCamp "College Algebra with Python" course. The user enters the information when prompted and outputs the results of their selection. The functions that can be performed on this calculator include: 
 
 * Creating a table of values
 * Plot functions
